@@ -63,4 +63,4 @@ while True:
             time.sleep(1)
          
 
-    time.sleep(1)  # Adjust based on your requirement
+    time.sleep(1)  # Adjust based on timing
