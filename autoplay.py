@@ -15,7 +15,8 @@ import keyboard  # for listening to key presses
 
 # Screen capture region coordinates
 # x, y, width, height = 0, 520, 40, 35  # Small mode
-x, y, width, height = 0, 790, 40, 35 # Large mode
+# x, y, width, height = 0, 790, 40, 35 # Large mode
+x, y, width, height = 0, 1035, 40, 35  # Monitor mode
 
 
 autoplay_enabled = False  # Initial state of autoplay
