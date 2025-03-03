@@ -7,7 +7,7 @@ from pynput.keyboard import Key, Listener
 
 # Screen capture region coordinates
 # x, y, width, height = 0, 520, 40, 35  # Small mode
-x, y, width, height = 15, 650, 40, 35 # Large mode
+x, y, width, height = 15, 815, 40, 35 # Large mode
 # x, y, width, height = 0, 1035, 40, 35  # Monitor mode
 
 autoplay_enabled = False  # Initial state of autoplay
